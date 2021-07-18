@@ -3,8 +3,9 @@ title: Chen Xu（Under construction）
 role: "Control Engineer "
 bio: Chen Xu is a control engineer of the DJI gimbal group
 interests:
-  - My research interests include robotics
-  - control and machine learning.
+  - robotics
+  - control
+  - machine learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,20 +23,17 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: SZ DJI Technology Co., Ltd
+    url: https://www.dji.com/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: M.Sc
+      institution: Beijing Institute of Technology
+      year: 2018
+    - course: B.Eng
+      institution: Shenyang Aerospace University
+      year: 2015
+email: chenxuowo@163.com
 superuser: true
 highlight_name: false
 ---
