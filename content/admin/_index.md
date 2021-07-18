@@ -33,3 +33,10 @@ education:
     - course: B.Eng
       institution: Shenyang Aerospace University
       year: 2015
+email: chenxuowo@163.com
+superuser: true
+highlight_name: false
+---
+Chen Xu is an engineer of the DJI gimbal group. His research interests include robotics, control, and machine learning. 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
