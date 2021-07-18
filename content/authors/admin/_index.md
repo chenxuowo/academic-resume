@@ -1,6 +1,6 @@
 ---
 title: Chen Xu（Under construction）
-role: "Control Engineer "
+role: "Control Engineer"
 bio: Chen Xu is a control engineer of the DJI gimbal group
 interests:
   - robotics
